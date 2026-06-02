@@ -109,9 +109,9 @@ Algorithm:
 
 Add a screenshot here:
 
-```markdown
+## 📷 Dashboard Preview
+
 ![Dashboard Preview](images/dashboard.png)
-```
 
 ---
 
