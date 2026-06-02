@@ -105,9 +105,6 @@ Algorithm:
 
 ---
 
-## 📷 Dashboard Preview
-
-Add a screenshot here:
 
 ## 📷 Dashboard Preview
 
