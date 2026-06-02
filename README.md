@@ -142,6 +142,14 @@ streamlit run app.py
 - Git & GitHub
 - Report Generation
 
+## 📌 Key Outcomes
+
+- Built an end-to-end tourism analytics solution.
+- Developed a machine learning model for tourism spending prediction.
+- Created interactive dashboards with filters and visualizations.
+- Implemented forecasting and reporting features.
+- Deployed the application using Streamlit Cloud.
+
 ##  Author
 
 TAGHREED MOHAMMED
