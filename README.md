@@ -130,8 +130,19 @@ streamlit run app.py
 ```
 
 ---
+## 🎯 Skills Demonstrated
 
-## 👨‍💻 Author
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Predictive Analytics
+- Dashboard Development
+- Python Programming
+- Streamlit Deployment
+- Git & GitHub
+- Report Generation
+
+##  Author
 
 TAGHREED MOHAMMED
 
