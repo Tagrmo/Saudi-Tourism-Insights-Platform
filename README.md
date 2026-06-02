@@ -1,98 +1,138 @@
-# Saudi Tourism AI Analyst 🇸🇦
+# 🇸🇦 Saudi Tourism AI Analyst
 
-## Overview
+An AI-powered tourism analytics dashboard built using Python, Machine Learning, and Streamlit.
 
-Saudi Tourism AI Analyst is a Data Analytics and Machine Learning project built using Python and Streamlit.
-
-The project analyzes Saudi tourism data, visualizes tourism trends, and predicts tourism spending using a Random Forest Regression model.
+The project analyzes Saudi tourism data, provides interactive visualizations, generates insights, predicts tourism spending, and exports reports.
 
 ---
 
-## Features
+## 🚀 Live Demo
 
-* Interactive Dashboard
-* Tourism Data Analysis
-* Province Filtering
-* Tourism Type Filtering
-* Year Filtering
-* Tourism Spending Prediction
-* Download Filtered Data as CSV
-* Machine Learning Model Integration
+Add your Streamlit deployment link here:
+
+https://your-streamlit-app-url.streamlit.app
 
 ---
 
-## Technologies Used
+## 📊 Features
+
+### Data Analysis
+
+* Tourism trends analysis
+* Tourist spending analysis
+* Province-level tourism insights
+* Domestic vs Inbound tourism comparison
+
+### Interactive Dashboard
+
+* Year filtering
+* Tourism type filtering
+* Province filtering
+* Interactive charts
+
+### Machine Learning
+
+* Tourism spending prediction
+* Random Forest Regression model
+* Model performance evaluation
+
+### AI Insights
+
+* Most visited province detection
+* Highest spending province detection
+* Average stay analysis
+* Automated recommendations
+
+### Reporting
+
+* CSV export
+* PDF report generation
+
+### Geographic Visualization
+
+* Interactive tourism map of Saudi Arabia
+
+---
+
+## 🛠 Technologies Used
 
 * Python
 * Pandas
-* Matplotlib
+* NumPy
 * Scikit-Learn
 * Streamlit
+* Plotly
+* Matplotlib
 * Joblib
+* FPDF
 
 ---
 
-## Dataset
+## 📁 Project Structure
 
-The project uses Saudi tourism statistics data including:
-
-* Number of Tourists
-* Tourism Spending
-* Overnight Stays
-* Average Stay
-* Average Spending per Trip
-* Average Spending per Night
-* Province Information
-* Tourism Type (Domestic / Inbound)
+```text
+Saudi-Tourism-AI/
+│
+├── app.py
+├── main.py
+├── tourism_data.csv
+├── saudi_tourism_model.pkl
+├── prediction_results.csv
+├── requirements.txt
+├── README.md
+└── images/
+```
 
 ---
 
-## Machine Learning Model
-
-Model:
-
-* Random Forest Regressor
+## 📈 Machine Learning Model
 
 Target Variable:
 
-* Tourism Spending
+* Tourists_Spending
 
-Evaluation Metric:
+Features:
 
-* Mean Absolute Error (MAE)
+* Tourists_Number
+* Overnight_Stay
+* Avg_Stay
+* Avg_Spending_Trip
+* Avg_Spending_Night
 
----
+Algorithm:
 
-## Project Structure
-
-Saudi-Tourism-AI/
-
-├── tourism_data.csv
-
-├── main.py
-
-├── app.py
-
-├── saudi_tourism_model.pkl
-
-├── prediction_results.csv
-
-└── README.md
+* Random Forest Regressor
 
 ---
 
-## Run Locally
+## 📷 Dashboard Preview
+
+Add a screenshot here:
+
+```markdown
+![Dashboard](images/dashboard.png)
+```
+
+---
+
+## ▶️ Run Locally
 
 Install dependencies:
 
-pip install pandas matplotlib scikit-learn streamlit joblib
+```bash
+pip install -r requirements.txt
+```
 
 Run the application:
 
+```bash
 streamlit run app.py
+```
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Data Analytics & AI Portfolio Project
+TAGHREED MOHAMMED
+
+Built as a data analytics and machine learning portfolio project focused on Saudi tourism.
