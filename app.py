@@ -64,7 +64,7 @@ if selected_province != "All":
 # Load Model
 model = joblib.load("saudi_tourism_model.pkl")
 
-st.title("Saudi Tourism AI Analyst 🇸🇦")
+st.title("Saudi Tourism Insights Platform")
 st.caption(
     f"Year: {selected_year} | "
     f"Type: {selected_type} | "

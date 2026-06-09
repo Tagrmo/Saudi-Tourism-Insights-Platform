@@ -1,4 +1,4 @@
-# 🇸🇦 Saudi Tourism AI Analyst
+# Saudi Tourism Insights Platform
 
 An AI-powered tourism analytics dashboard built using Python, Machine Learning, and Streamlit.
 
