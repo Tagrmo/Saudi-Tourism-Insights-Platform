@@ -108,9 +108,9 @@ Algorithm:
 
 ## 📷 Dashboard Preview
 
-![Saudi Tourism Dashboard](images/saudi_analysis_1.PNG)
+![Saudi Tourism Dashboard](images/saudi_analysis_2.PNG)
 
-![Saudi Tourism Interface](images/saudi_analysis_2.PNG)
+![Saudi Tourism Interface](images/saudi_analysis_1.PNG)
 ---
 
 ## ▶️ Run Locally
