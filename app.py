@@ -51,12 +51,11 @@ province_coords = {
 }
 
 province_images = {
-    "Riyadh": "https://images.unsplash.com/photo-1586724237569-f3d0c1dee8c6?auto=format&fit=crop&w=1600&q=80",
-    "Makkah": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1600&q=80",
-    "Madinah": "https://images.unsplash.com/photo-1580418827493-f2b22c0a76cb?auto=format&fit=crop&w=1600&q=80",
-    "Eastern_region": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
-    "Aseer": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
-    "Tabuk": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+    "Riyadh": "https://www.gtreview.com/wp-content/uploads/2025/07/GTR-KSA-2026-Riyadh_600x400.jpg",
+    "Makkah": "https://images.trvl-media.com/place/178043/a8ed123e-3a19-4a74-90bd-925ff046c374.jpg",
+    "Madinah": "https://islamonline.net/wp-content/uploads/2022/06/Madinah-Mosque.jpg",
+    "Aseer": "https://upload.wikimedia.org/wikipedia/commons/4/45/%D8%B1%D8%AC%D8%A7%D9%84_%D8%A3%D9%84%D9%85%D8%B91.jpg",
+    "Tabuk": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXmVTt1HYfYLlOVzWM26vXUSdM3Tly-yv1xUAWOQTDum04ZPkfvjQusPG&s=10",
     "All": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80"
 }
 
@@ -965,5 +964,6 @@ st.markdown("""
 <div class="footer">
     Saudi Tourism Intelligence Experience © 2026<br>
     Data storytelling, forecasting, and AI-powered tourism decision support.
-</div>
+    Developed by Taghreed Mohammed
+            </div>
 """, unsafe_allow_html=True)
