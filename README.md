@@ -109,7 +109,6 @@ Algorithm:
 ## 📷 Dashboard Preview
 
 ![Saudi Tourism Dashboard](images/saudi_analysis_1.png)
-
 ![Saudi Tourism Interface](images/saudi_analysis_2.png)
 ---
 
