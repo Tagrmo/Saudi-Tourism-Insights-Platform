@@ -108,7 +108,7 @@ Algorithm:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/Saudi analysis 1.png)
+![Dashboard Preview](images/Saudi analysis1.png)
 ![Dashboard Preview](images/Saudi analysis.png)
 ---
 
