@@ -57,6 +57,7 @@ province_images = {
     "Aseer": "https://upload.wikimedia.org/wikipedia/commons/4/45/%D8%B1%D8%AC%D8%A7%D9%84_%D8%A3%D9%84%D9%85%D8%B91.jpg",
     "Tabuk": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXmVTt1HYfYLlOVzWM26vXUSdM3Tly-yv1xUAWOQTDum04ZPkfvjQusPG&s=10",
     "Eastern_region": "https://www.ithra.com/application/files/cache/thumbnails/f29d9abf311111301475d8013548272b.jpg",
+    "All": "https://www.ithra.com/application/files/cache/thumbnails/f29d9abf311111301475d8013548272b.jpg",
 }
 # =========================
 # Top Controls
