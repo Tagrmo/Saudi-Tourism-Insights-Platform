@@ -10,7 +10,7 @@ The project analyzes Saudi tourism data, provides interactive visualizations, ge
 
 Add your Streamlit deployment link here:
 
-https://saudi-tourism-ai-nti7ekannc3zcdqke3mstq.streamlit.app/
+https://saudi-tourism-insights-platform-gwwm8zrqjlgnmrhbgwv5sd.streamlit.app/
 
 ---
 
