@@ -43,14 +43,12 @@ https://saudi-tourism-insights-platform-gwwm8zrqjlgnmrhbgwv5sd.streamlit.app/
 
 ## 📷 Project Preview
 
-### 📊 Power BI Dashboard
-
-![Saudi Tourism Dashboard](images/saudi_analysis_1.PNG)
 
 ### 🌐 Streamlit Application
 
 ![Streamlit Application](images/saudi_analysis_2.PNG)
 
+![Saudi Tourism Dashboard](images/saudi_analysis_1.PNG)
 ## 🎯 Skills Demonstrated
 
 * Data Analysis
