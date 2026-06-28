@@ -964,6 +964,7 @@ st.markdown("""
 <div class="footer">
     Saudi Tourism Intelligence Experience © 2026<br>
     Data storytelling, forecasting, and AI-powered tourism decision support.
-    Developed by Taghreed Mohammed
+    
+            Developed by Taghreed Mohammed
             </div>
 """, unsafe_allow_html=True)
