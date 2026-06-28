@@ -1,155 +1,80 @@
-# Saudi Tourism Insights Platform
+# 🇸🇦 Saudi Tourism Insights Platform
 
-An AI-powered tourism analytics dashboard built using Python, Machine Learning, and Streamlit.
+An interactive tourism analytics platform developed to explore tourism trends across Saudi Arabia using data visualization and machine learning.
 
-The project analyzes Saudi tourism data, provides interactive visualizations, generates insights, predicts tourism spending, and exports reports.
+The application enables users to analyze tourism performance, compare provinces, explore key tourism indicators, and estimate tourism spending through an intuitive Streamlit interface.
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
-Add your Streamlit deployment link here:
+**Streamlit Application**
 
 https://saudi-tourism-insights-platform-gwwm8zrqjlgnmrhbgwv5sd.streamlit.app/
 
 ---
 
-## 📊 Features
+## 📌 Features
 
-### Data Analysis
-
+* Interactive tourism dashboard
+* Province, year, and tourism type filtering
 * Tourism trends analysis
-* Tourist spending analysis
-* Province-level tourism insights
 * Domestic vs Inbound tourism comparison
-
-### Interactive Dashboard
-
-* Year filtering
-* Tourism type filtering
-* Province filtering
-* Interactive charts
-
-### Machine Learning
-
-* Tourism spending prediction
-* Random Forest Regression model
-* Model performance evaluation
-
-### AI Insights
-
-* Most visited province detection
-* Highest spending province detection
-* Average stay analysis
-* Automated recommendations
-
-### Reporting
-
+* Tourism spending analysis
+* Machine learning prediction
+* Interactive map of Saudi Arabia
 * CSV export
 * PDF report generation
 
-### Geographic Visualization
-
-* Interactive tourism map of Saudi Arabia
-
 ---
 
-## 🛠 Technologies Used
+## 🛠 Technologies
 
 * Python
-* Pandas
-* NumPy
-* Scikit-Learn
 * Streamlit
+* Pandas
 * Plotly
+* Scikit-learn
 * Matplotlib
 * Joblib
 * FPDF
 
 ---
 
-## 📁 Project Structure
+## 📷 Project Preview
 
-```text
-Saudi-Tourism-AI/
-│
-├── app.py
-├── main.py
-├── tourism_data.csv
-├── saudi_tourism_model.pkl
-├── prediction_results.csv
-├── requirements.txt
-├── README.md
-└── images/
-```
+### 📊 Power BI Dashboard
 
----
+![Saudi Tourism Dashboard](images/saudi_analysis_1.PNG)
 
-## 📈 Machine Learning Model
+### 🌐 Streamlit Application
 
-Target Variable:
+![Streamlit Application](images/saudi_analysis_2.PNG)
 
-* Tourists_Spending
-
-Features:
-
-* Tourists_Number
-* Overnight_Stay
-* Avg_Stay
-* Avg_Spending_Trip
-* Avg_Spending_Night
-
-Algorithm:
-
-* Random Forest Regressor
-
----
-
-
-## 📷 Dashboard Preview
-
-![Saudi Tourism Dashboard](images/saudi_analysis_2.PNG)
-
-![Saudi Tourism Interface](images/saudi_analysis_1.PNG)
----
-
-## ▶️ Run Locally
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
-
----
 ## 🎯 Skills Demonstrated
 
-- Data Analysis
-- Data Visualization
-- Machine Learning
-- Predictive Analytics
-- Dashboard Development
-- Python Programming
-- Streamlit Deployment
-- Git & GitHub
-- Report Generation
+* Data Analysis
+* Business Intelligence
+* Data Visualization
+* Machine Learning
+* Predictive Analytics
+* Dashboard Development
+* Interactive Application Development
+* Python Programming
 
-## 📌 Key Outcomes
+---
 
-- Built an end-to-end tourism analytics solution.
-- Developed a machine learning model for tourism spending prediction.
-- Created interactive dashboards with filters and visualizations.
-- Implemented forecasting and reporting features.
-- Deployed the application using Streamlit Cloud.
+## 💡 About This Project
 
-##  Author
+The goal of this project was to build an end-to-end analytics solution that combines interactive dashboards, business insights, and predictive analytics in a single application.
 
-TAGHREED MOHAMMED
+Users can explore tourism data through dynamic visualizations, compare tourism performance across Saudi provinces, and generate tourism spending predictions using a trained machine learning model.
 
-Built as a data analytics and machine learning portfolio project focused on Saudi tourism.
+---
+
+## 👩‍💻 Author
+
+**Taghreed Mohammed**
+
+Computer Science Graduate | Data Analytics & Business Intelligence
+
